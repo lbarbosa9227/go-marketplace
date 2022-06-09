@@ -7,7 +7,7 @@ import (
 
 const maxLengthInComments = 400
 
-//Review represent  an anon review from some website
+//Review represent  an anon review from some website yhea
 
 type Review struct {
 	Id      int64
